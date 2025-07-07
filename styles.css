@@ -419,7 +419,7 @@ body {
 }
 
 .feature-card {
-  padding: 2rem;
+  padding: 1.5rem;
   background: white;
   border-radius: 1rem;
   transition: transform 0.2s;
@@ -431,12 +431,14 @@ body {
 }
 
 .feature-card h3 {
-  margin: 1rem 0;
+  margin: 0 0 0.8rem 0;
   color: var(--text);
 }
 
 .feature-card p {
   color: var(--text-light);
+  text-align: left;
+
 }
 
 .trail-dot {
